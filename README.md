@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello
+
+- Doing DevOps for more than a decade
+- Running a homelab to experiment with tools and services
+- Always learning
 
 <!--
 **chiefpurringofficer/chiefpurringofficer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
